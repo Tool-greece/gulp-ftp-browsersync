@@ -1,0 +1,15 @@
+{
+  "name": "gulp-ftp-browsersync",
+  "version": "1.0.0",
+  "description": "A gulp file that provides ftp deploy solution. It contains NO bundling tasks. Simple ftp connection",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "ftp"
+  ],
+  "author": "4nt0n",
+  "license": "ISC"
+}
